@@ -10,4 +10,4 @@
 
 - [Pyagain](https://github.com/kiss-oliver/pyagain), a very simple package to retry tasks in Python
 - [A quick fix](https://github.com/kiss-oliver/opera_h264) to the faulty ffmpeg library coming with the Opera browser on Debian-based distros
-- Send a challenge and automatically copy the response from a Yubikey using [this tool](https://github.com/kiss-oliver/ykchalresp-gnome)
+- Send a challenge and automatically copy the response from a Yubikey using [this tool for GNOME](https://github.com/kiss-oliver/ykchalresp-gnome) and [this tool for KDE](https://github.com/kiss-oliver/ykchalresp-kde)
