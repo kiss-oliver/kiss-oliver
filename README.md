@@ -3,7 +3,7 @@
 - :student: In case you are from my classes at Corvinus [this is the repo you're looking for](https://github.com/BCE-Makromodell-2021/szeminarium)
 
 ### :green_heart: Recent happy moments 
-- :ok_hand: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) was accepted in CIKM 2021.
+- :ok_hand: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) was accepted in CIKM 2021 and was awarded best paper in Resource Track.
 - :hatching_chick: Econometrics with Machine Learning Using Network Data will be part of the book Econometrics with Machine Learning - to be published in 2022.
 
 ### Some useful things
