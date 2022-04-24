@@ -9,6 +9,5 @@
 
 - Data on the Hungarian electorate in 2022 [here](https://github.com/kiss-oliver/106).
 - A simple binary to replace libappindicator by libayatana-appindicator in Bullseye [here](https://github.com/kiss-oliver/libappindicator3-1.equivs)
-- 
 - [Pyagain](https://github.com/kiss-oliver/pyagain), a very simple package to retry tasks in Python
 - Send a challenge and automatically copy the response from a Yubikey using [this tool for GNOME](https://github.com/kiss-oliver/ykchalresp-gnome) and [this tool for KDE](https://github.com/kiss-oliver/ykchalresp-kde)
