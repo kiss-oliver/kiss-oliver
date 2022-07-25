@@ -1,5 +1,5 @@
 ### 	:wave: Hi there
-- :chart: If you are a Business Analytics student you should go [here](https://github.com/kiss-oliver/ba-pre-session-2021)
+- :chart: If you are a Business Analytics student you should go [here](https://github.com/kiss-oliver/ba-pre-session-2022)
 - :student: In case you are from my classes at Corvinus [this is the repo you're looking for](https://github.com/BCE-Makromodell-2021/szeminarium)
 
 ### :green_heart: Recent happy moments 
