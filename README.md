@@ -3,6 +3,7 @@
 - :student: In case you are from my classes at Corvinus [this is the repo you're looking for](https://github.com/BCE-Makromodell-2021/szeminarium)
 
 ### :green_heart: Recent happy moments 
+-  :city_sunrise: I'll be joining [Microsoft Research Lab (New England)](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) this summer for a PhD research internship.
 - :tea: [The Shapley Value in Machine Learning](https://arxiv.org/abs/2202.05594) accepted to IJCAI '22.
 
 ### Some useful things
